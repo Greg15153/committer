@@ -1,6 +1,6 @@
 # Committer
 
-This is a small utility to help you structure your commits. 
+This is a small utility to help you structure your commits.
 
 - Each commit is started with at least one Emoji update
 - Ticket Number
@@ -24,5 +24,5 @@ The simple script just creates prompts for the inputs, cleans, formats and commi
 .gitconfig
 ```
 [alias]
-    committer = !node /path/to/commiter.js
+    committer = !node /path/to/committer.js
 ```
